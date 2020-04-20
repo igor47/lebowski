@@ -86,4 +86,5 @@ not_in_scene_with = {char: all_chars.difference(in_scene_with[char]) for char in
 counts = {p: len(l) for p, l in lines.items()}
 counts = sorted(counts.items(), key = lambda x: x[1], reverse=True)
 
-breakpoint()
+for c in counts:
+  print(f"{c[0]}:{c[1]}")
