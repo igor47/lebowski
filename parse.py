@@ -68,7 +68,7 @@ for idx, line in enumerate(script):
   if is_blank(line):
     cur_person = None
 
-  if cur_person:
+  if cur_person and not person:
     lines[cur_person].append(line)
 
 
