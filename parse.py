@@ -16,8 +16,9 @@ def is_all_caps(line: str) -> bool:
 def is_blank(line: str) -> bool:
   return len(line.strip()) == 0
 
-def int_or_ext(line: str) -> bool:
-  return line.startswith('INT.') or line.startswith('EXT.')
+SCENE_MARKERS = ['INT.', 'EXT.', 'INSIDE -', 'THE DOOR -']
+def starts_with_scene_marker(line: str) -> bool:
+  return any(line.startswith(scene_marker) for scene_marker in SCENE_MARKERS)
 
 def scene_change(idx, line) -> bool:
   prev = script[idx-1]
@@ -27,7 +28,7 @@ def scene_change(idx, line) -> bool:
   except IndexError:
     next_ = ''
 
-  return is_blank(prev) and is_blank(next_) and is_all_caps(line) and int_or_ext(line)
+  return is_blank(prev) and is_blank(next_) and is_all_caps(line) and starts_with_scene_marker(line)
 
 def is_script_line(line) -> bool:
   return not (is_all_caps(line) or is_blank(line))
