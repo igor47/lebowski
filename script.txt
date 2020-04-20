@@ -8,7 +8,7 @@
                singing "Tumbling Tumbleweeds" and a deep, affable, Western
                accented voice--Sam Elliot's, perhaps:
 
-                                   VOICE-OVER
+                                   THE STRANGER
                          A way out west there was this
                          fella, fella I want to tell you
                          about, fella by the name of Jeff
@@ -29,7 +29,7 @@
                We top the rise and the smoggy vastness of Los Angeles at
                twilight stretches out before us.
 
-                                   VOICE-OVER (CONT'D)
+                                   THE STRANGER (CONT'D)
                          They call Los Angeles the City of
                          Angels. I didn't find it to be that
                          exactly, but I'll allow as there
@@ -58,7 +58,7 @@
                He feels quarts of milk for coldness and examines their
                expiration dates.
 
-                                   VOICE-OVER
+                                   THE STRANGER
                          Now this story I'm about to unfold
                          took place back in the early
                          nineties-- just about the time of
@@ -80,7 +80,7 @@
                The Dude glances furtively about and then opens a quart of
                milk. He sticks his nose in the spout and sniffs.
 
-                                   VOICE-OVER (CONT'D)
+                                   THE STRANGER (CONT'D)
                          ...which would place him high in
                          the runnin' for laziest worldwide-
                          but sometimes there's a man...
@@ -90,7 +90,7 @@
 
                She waits, arms folded.
 
-                                   VOICE-OVER (CONT'D)
+                                   THE STRANGER (CONT'D)
                          Wal...
 
                The Dude, scribbles something at the little customer's
@@ -98,14 +98,14 @@
 
                Milk beads his mustache.
 
-                                   VOICE-OVER (CONT'D)
+                                   THE STRANGER (CONT'D)
                          Lost my train of thought here.
                          But...
 
                The Dude has his Ralph's Shopper's Club card to one side and
                makes out a check to Ralph's for sixty-nine cents.
 
-                                   VOICE-OVER (CONT'D)
+                                   THE STRANGER (CONT'D)
                          Aw hell, I done innerduced him
                          enough.
 
@@ -148,28 +148,28 @@
                Hands haul the Dude out of the toilet. The Dude blubbers and
                gasps for air.
 
-                                   VOICE
+                                   BLOND MAN
                          Where's the money, Lebowski!
 
                His head is plunged back into the toilet.
 
-                                   VOICE (CONT'D)
+                                   BLOND MAN (CONT'D)
                          We want that money, Lebowski. Bunny
                          said you were good for it.
 
                Hands haul the Dude out of the toilet again.
 
-                                   VOICE (CONT'D)
+                                   BLOND MAN (CONT'D)
                          Where's the money, Lebowski!
 
                His head is plunged back into the toilet.
 
-                                   VOICE (CONT'D)
+                                   BLOND MAN (CONT'D)
                          Where's the money, Lebowski!
 
                The hands haul him out again, dripping and gasping.
 
-                                   VOICE (CONT'D)
+                                   BLOND MAN (CONT'D)
                          WHERE'S THE FUCKING MONEY,
                          SHITHEAD!
 
@@ -179,14 +179,14 @@
 
                His head is plunged back in.
 
-                                   VOICE
+                                   BLOND MAN
                          Don't fuck with us.
 
                The inquisitor hauls the Dude's head out one last time and
                flops him over so that he sits on the floor, back against the
                toilet.
 
-                                   VOICE (CONT'D)
+                                   BLOND MAN (CONT'D)
                          Your wife owes money to Jackie
                          Treehorn, that means you owe money
                          to Jackie Treehorn.
@@ -196,7 +196,7 @@
                Beyond in the living room a young Chinese man unzips his fly
                and walks over to a rug.
 
-                                   CHINESE MAN
+                                   WOO
                          Ever thus to deadbeats, Lebowski.
 
                He starts peeing on the rug.
@@ -302,7 +302,7 @@
                A man with black hair, wearing a bowling shirt turns from the
                strike to walk back to the bench.
 
-                                   MAN
+                                   DONNY
                          Wahooo, I'm throwin' rocks tonight.
                          Mark it, Dude.
 
@@ -998,9 +998,8 @@
 
                INT. BOWLING ALLEY
 
-                                   THE BOWLERS
-                         Donny backs away from the line,
-                         turns and walks back.
+               The Bowlers: Donny backs away from the line, turns and walks
+               back.
 
                                    DONNY
                          Wahooo...I'm slammin' 'em tonight
@@ -1281,7 +1280,7 @@
 
                A beep.
 
-                                   VOICE
+                                   SMOKEY
                          Dude, this is Smokey. Look, I don't
                          wanna be a hard-on about this, and
                          I know it wasn't your fault, but I
@@ -1299,7 +1298,7 @@
                At the bar next to the answering machine the Dude is mixing
                kahlua, vodka and milk.
 
-                                   ANOTHER VOICE
+                                   BRANDT
                          Mr. Lebowski, this is Brandt at,
                          uh, well--at Mr. Lebowski's office.
                          Please call us as soon as is
@@ -1307,7 +1306,7 @@
 
                Beep.
 
-                                   ANOTHER VOICE (CONT'D)
+                                   BELL SALNICKER (CONT'D)
                          Mr. Lebowski, this is Bell
                          Salnicker with the Southern Cal
                          Bowling League, and I just got a,
@@ -1326,7 +1325,7 @@
                It swings open to reveal a short, hairy, muscular but balding
                middle-aged man in a blue T-shirt and beige shorts.
 
-                                   MAN
+                                   MARTY
                          Dude.
 
                                    DUDE
@@ -1361,13 +1360,13 @@
 
                The voice continues on the machine.
 
-                                   VOICE
+                                   BELL SALNICKER
                          --serious infraction, and examine
                          your standing. Thank you.
 
                Beep.
 
-                                   VOICE (CONT'D)
+                                   BRANDT (CONT'D)
                          Mr. Lebowski, Brandt again. Please
                          do call us as soon as you get in
                          and I'll send the limo. I hope
@@ -1602,7 +1601,7 @@
                walking up a stoop in a residential neighborhood and ringing
                the bell.
 
-               The VOICE-OVER conversation continues.
+
 
                                    DUDE
                          Huh.
@@ -1788,7 +1787,7 @@
                                    DUDE
                          Your roll.
 
-                                   VOICE
+                                   QUINTANA
                          Are you ready to be fucked, man?
 
                They both look up.
@@ -2095,7 +2094,7 @@
                                    DUDE (CONT'D)
                          Dude here.
 
-                                   VOICE
+                                   ULI
                              (German accent)
                          Who is this?
 
@@ -2103,7 +2102,7 @@
                          Dude the Bagman. Where do you want
                          us to go?
 
-                                   VOICE
+                                   ULI
                          Us?
 
                                    DUDE
@@ -2113,7 +2112,7 @@
                          car and talking on the phone all by
                          my fucking--
 
-                                   VOICE
+                                   ULI
                          Shut the fuck up.
 
                Walter looks over at the Dude and bellows:
@@ -2121,7 +2120,7 @@
                                    WALTER
                          Dude, are you fucking this up?
 
-                                   VOICE
+                                   ULI
                          Who is that?
 
                                    DUDE
@@ -2185,14 +2184,14 @@
                                    DUDE
                          Dude.
 
-                                   VOICE
+                                   ULI
                          Okay, vee proceed. But only if
                          there is no funny stuff.
 
                                    DUDE
                          Yeah, yeah.
 
-                                   VOICE
+                                   ULI
                          So no funny stuff. Okay?
 
                                    DUDE
@@ -2247,7 +2246,7 @@
                                    DUDE
                          Dude.
 
-                                   VOICE
+                                   ULI
                          You are coming to a vooden bridge.
                          When you cross the bridge you srow
                          ze bag from ze left vindow of ze
@@ -2764,7 +2763,7 @@
 
                Beep.
 
-                                   FEMALE VOICE ON MACHINE
+                                   MAUDE
                          Mr. Lebowski, I'd like to see you.
                          Call when you get home and I'll
                          send a car for you. My name is
@@ -2801,7 +2800,7 @@
                sneakers reach the sling shortly after it reaches the end of
                its track and slowly lower the woman to the floor.
 
-                                   VOICE
+                                   MAUDE
                          Elfranco. Ajuda me abajo. I'll be
                          with you in a moment, Mr. Lebowski.
 
@@ -3094,7 +3093,7 @@
                The Dude sits in back holding a White Russian, listening to
                the chauffeur, a man of about the same age.
 
-                                   DRIVER
+                                   TONY
                          --So he says, "My wife's a pain in
                          the ass. She's always tryin' to
                          bust my friggin aggets, my
@@ -3507,14 +3506,14 @@
                                    DUDE
                          Far out.
 
-                                   MESSAGE
+                                   VOICE THROUGH MACHINE
                          ...The hours there on weekdays will
                          be 10:30 to 5
 
                                    DUDE
                          Far fuckin' out.
 
-                                   MESSAGE
+                                   VOICE THROUGH MACHINE
                          You'll just need to present a claim-
 
                The message is interrupted by loud smashing sounds, as of
@@ -3549,7 +3548,7 @@
                The marmot splashes frantically, biting at the Dude in a
                frenzy of fearful aggression.
 
-                                   FIRST MAN
+                                   ULI
                          Ver is za money Lebowski. Vee vant
                          zat money, Lebowski.
 
@@ -3843,7 +3842,7 @@
                                    DUDE
                          Another Caucasian, Gary.
 
-                                   VOICE
+                                   GARY
                          Right, Dude.
 
                STILL STARING DOWN AT THE BAR:
@@ -3865,13 +3864,13 @@
 
                TO THE BARTENDER:
 
-                                   MAN
+                                   THE STRANGER
                          D'ya got a good sarsaparilla?
 
                We recognize the voice of The Stranger whose narration opened
                the movie.
 
-                                   BARTENDER
+                                   GARY
                          Sioux City Sarsaparilla.
 
                The Stranger nods.
@@ -4230,7 +4229,7 @@
 
                The figure circles to one side, out of frame.
 
-                                   VOICE
+                                   DOCTOR
                          Could you slide your shorts down
                          Mr. Lebowski, please?
 
@@ -4240,7 +4239,7 @@
                          Hmm? No, no man, she, she hit me
                          right here.
 
-                                   VOICE
+                                   DOCTOR
                          I understand. Could you slide your
                          shorts down please?
 
@@ -4718,13 +4717,13 @@
 
                Walter now smashes in the hood.
 
-                                   VOICE
+                                   MAN
                          MY CAR!
 
                                    WALTER
                          THIS IS WHAT HAPPENS LARRY!
 
-                                   VOICE
+                                   MAN
                          MY BABY, STOP IT!
 
                                    WALTER
@@ -4906,7 +4905,7 @@
                Behind him, the woman rises and falls, appears and
                disappears.
 
-                                   MAN
+                                   TREEHORN
                          Hello, Dude. Thanks for coming. I'm
                          Jackie Treehorn.
 
@@ -5133,7 +5132,7 @@
 
                BLACK
 
-                                   THE STRANGER'S VOICE
+                                   THE STRANGER
                          Darkness warshed over the Dude--
                          darker'n a black steer's tookus on
                          a moonless prairie night. There was
@@ -5345,10 +5344,8 @@
 
                "Peaceful Easy Feeling" is on the radio.
 
-                                   DUDE'S POV
-                         The back of the driver, a large
-                         black man with a brimless, black
-                         leather cap on his head.
+              Dude's POV: The back of the driver, a large black man with a
+              brimless, black leather cap on his head.
 
                                    DUDE
                          Jesus, man, can you change the
@@ -5661,14 +5658,14 @@
 
                FROM THE BEDROOM -
 
-                                   MAUDE'S VOICE
+                                   MAUDE
                          Jeffery! What're you talking about?
 
                LIVING ROOM -
 
                The Dude finishes punching a number into the phone.
 
-                                   MAUDE'S VOICE
+                                   MAUDE
                          Jeffery!
 
                The phone rings on the other end.
@@ -6404,7 +6401,7 @@
                          Soviet tank. This, this is not a
                          worthy fucking adversary.
 
-                                   VOICE
+                                   QUINTANA
                          HEY!
 
                The Dude and Walter look.
@@ -6801,14 +6798,14 @@
 
                A tall thin man in a conservative black suit enters.
 
-                                   MAN
+                                   DONNELLY
                          Hello, gentlemen. You are the
                          bereaved?
 
                                    DUDE
                          Yeah man.
 
-                                   MAN
+                                   DONNELLY
                          Francis Donnelly. Pleased to meet
                          you.
 
