@@ -31,7 +31,8 @@ def scene_change(idx, line) -> bool:
   return is_blank(prev) and is_blank(next_) and is_all_caps(line) and starts_with_scene_marker(line)
 
 def is_script_line(line) -> bool:
-  return not (is_all_caps(line) or is_blank(line))
+  left_side = line[0:36]
+  return not is_blank(left_side)
 
 def new_person(idx, line) -> Optional[str]:
   if is_blank(line):
