@@ -1,6 +1,7 @@
 import json
 from collections import defaultdict
 from itertools import combinations
+import sys
 from tabulate import tabulate
 from typing import Optional
 
@@ -106,8 +107,10 @@ print(tabulate(counts_sorted, headers=["Character", "# Lines"]))
 print("")
 
 casting = {}
-with open('casting.json', 'r') as f:
-    casting = json.loads(f.read())
+casting_file = sys.argv[1]
+if casting_file:
+    with open(casting_file, 'r') as f:
+        casting = json.loads(f.read())
 
 roles = defaultdict(list)
 for character, actor in casting.items():
