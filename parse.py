@@ -6,10 +6,10 @@ from tabulate import tabulate
 from typing import Optional
 
 script = open('script.txt', 'r').readlines()
-script = [l[15:] for l in script]
+script = [f"{l[15:].rstrip()}\n" for l in script]
 
 state = "scene"
-curscene = {'name': None, 'people': set()}
+curscene = {'name': None, 'people': set(), 'lines': []}
 curscene_num = 0
 
 scenes = []
@@ -65,7 +65,7 @@ lines = defaultdict(list)
 for idx, line in enumerate(script):
   if scene_change(idx, line):
     curscene_num += 1
-    new_scene = {'name': line.strip().lower(), 'people': set()}
+    new_scene = {'name': line.strip().lower(), 'people': set(), 'lines': []}
     curscene = new_scene
     scenes.append(curscene)
     cur_person = None
@@ -83,6 +83,8 @@ for idx, line in enumerate(script):
 
   if cur_person and not person:
     lines[cur_person].append(line)
+
+  curscene['lines'].append(line)
 
 
 all_chars = set()
@@ -160,3 +162,26 @@ if len(conflicts) > 0:
     print(tabulate(conflicts, headers=['Actor', 'Character 1', 'Character 2']))
 else:
     print('NO CONFLICTING CASTING, GOOD JOB')
+
+with open('script-with-casting.txt', 'w') as f:
+    for idx, scene in enumerate(scenes):
+        num = idx + 1
+        name = scene['name'].upper()
+        characters_str = ", ".join(character.title() for character in scene['people'])
+        actors_str = ", ".join(casting[c].title() for c in scene['people'])
+        f.write(f"============================================================================\n")
+        f.write("\n")
+        f.write(f"SCENE {num}: {name}\n")
+        f.write("\n")
+        f.write(f"============================================================================\n")
+        f.write("\n")
+        if len(actors_str) > 0:
+            f.write(f"Actors: {actors_str}\n")
+            f.write(f"Characters: {characters_str}\n")
+            f.write("\n")
+            f.write(f"============================================================================\n")
+        f.write(f"\n")
+        for line in scene['lines']:
+            if len(line) > 1:
+                f.write("               ")
+            f.write(line)
