@@ -121,22 +121,38 @@ for character, actor in casting.items():
 
     roles[actor].append(character)
 
+# Print table of scenes with actors
+all_actors = sorted(set(casting.values()))
+scene_infos = []
+for idx, scene in enumerate(scenes):
+    num = idx + 1
+    name = scene['name'].upper()
+    characters = ", ".join(scene['people'])
+    actors = [casting[c] for c in scene['people']]
+    actor_presences = ['x' if actor in actors else None for actor in all_actors]
+    print(actor_presences)
+    scene_infos.append([num, name, characters] + actor_presences)
+headers = ['#', 'Scene', 'Characters'] + [a.capitalize() for a in all_actors]
+print(tabulate(scene_infos, headers=headers, tablefmt="fancy_grid"))
+print('')
+
+# Print casting table
 print('CURRENT CASTING')
 print('')
 table = []
 for actor, characters in sorted(roles.items(), key = lambda x: x[0]):
-    characters = sorted(characters, key=lambda c: counts[c], reverse=True)
-    character_list = "\n".join(characters)
+    character_list = "\n".join([c.title() for c in sorted(characters, key=lambda c: counts[c], reverse=True)])
 
     num_characters = len(characters)
     num_lines = sum(counts[c] for c in characters)
     first_appearance = min(first_appearances[c] for c in characters)
     last_appearance = max(last_appearances[c] for c in characters)
 
-    table.append([actor, character_list, num_characters, num_lines, first_appearance, last_appearance])
-print(tabulate(sorted(table, key=lambda x: [x[3], x[2]], reverse=True), headers=["Actor", "Characters", "# Parts", "# Lines", "1st Appearance", "Last"]))
+    table.append([actor.capitalize(), character_list, num_characters, num_lines, f"Scene {first_appearance}", f"Scene {last_appearance}"])
+print(tabulate(sorted(table, key=lambda x: [x[3], x[2]], reverse=True), headers=["Actor", "Characters", "# Parts", "# Lines", "1st Appearance", "Last"], tablefmt="fancy_grid"))
 print('')
 
+# Print alerts
 uncast = []
 for character, num_lines in sorted(counts.items(), key = lambda x: x[1], reverse=True):
     if casting[character] is None:
@@ -149,7 +165,6 @@ if len(uncast_sorted) > 0:
     print('')
 else:
     print('ALL ROLES CAST, GOOD JOB')
-
 conflicts = []
 for actor, characters in roles.items():
     pairs = combinations(characters, r=2)
